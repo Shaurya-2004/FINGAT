@@ -1,10 +1,32 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,25:00F5FF,50:7F00FF,75:FF00F5,100:00C2FF&height=180&section=header&text=FINGAT&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 # 📊 FINGAT – AI Stock Market Analysis Dashboard
 
+<div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=AI+Stock+Market+Analysis;Deep+Learning+for+Finance;Trend+Prediction+System" />
 
-\
+<br/>
 
-*🚀 A machine learning project focused on analyzing Indian stock market trends using deep learning techniques.*
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=white)
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+</p>
+
+<br/>
+
+<p align="center">
+🚀 A machine learning project focused on analyzing Indian stock market trends using deep learning techniques.
+</p>
 
 ---
 
@@ -115,3 +137,7 @@ pip install numpy pandas matplotlib tensorflow
 ## ⭐ *Show Your Support*
 
 If you found this project useful, consider giving it a ⭐
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:007BFF&height=120&section=footer"/>
+</p>
